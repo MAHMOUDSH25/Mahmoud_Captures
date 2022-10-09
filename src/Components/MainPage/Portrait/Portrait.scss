@@ -1,0 +1,153 @@
+// .images {
+//   position: absolute;
+//   left: 50px;
+//   padding-right: 10px;
+//   top: 12vh;
+//   align-items: center;
+//   // display: flex;
+
+//   img {
+//     // width: 300px;
+//     // display: block;
+//     margin-left: 15px;
+//     align-items: center;
+//     border-radius: 20px;
+//   }
+//   img:nth-child(1) {
+//     width: 430px;
+//     height: auto;
+//   }
+//   // img:nth-child(2) {
+//   //   width: 900px;
+//   //   height: auto;
+//   // }
+//   img:nth-child(2) {
+//     width: 360px;
+//     height: auto;
+//   }
+//   img:nth-child(3) {
+//     width: 435px;
+//     height: auto;
+//   }
+// }
+
+// .container{
+//   margin-top: 30px;
+// }
+
+// // MEDIA QUERY FOR 24' MONITOR
+// // .gallery-zone {
+// //     position: absolute;
+// //     left: 250px;
+// //     padding-right: 200px;
+// //     top: 120px;
+// //     align-items: center;
+// //     display: flex;
+
+// //     img {
+// //       display: block;
+// //       margin-left: 15px;
+// //       align-items: center;
+// //       border-radius: 20px;
+// //     }
+// //     //////////////////////////////
+// //     /// Noor Beautiful, Wide White Guitar, Long Exposure
+// //     img:nth-child(1) {
+// //       width: 500px;
+// //       height: auto;
+// //       // float: left;
+// //     }
+// // @mixin WGLE {
+// //   height: auto;
+// // }
+
+// // img:nth-child(2) {
+// //   width: 1100px;
+// //   @include WGLE();
+// // }
+
+// // img:nth-child(3) {
+// //   width: 1180px;
+// //   @include WGLE();
+// // }
+// // //////////////////////////////
+// // /// Wide The Beach
+// // img:nth-child(4) {
+// //   width: 1100px;
+// //   height: auto;
+// // }
+// // //////////////////////////////
+// // /// Three Portraits
+// // @mixin ThreePortraits {
+// //   height: auto;
+// // }
+// // //jaq
+// // img:nth-child(5) {
+// //   width: 415px;
+// //   @include ThreePortraits();
+// // }
+// // //lara
+// // img:nth-child(6) {
+// //   width: 500px;
+// //   @include ThreePortraits();
+// // }
+
+// // // mercede
+// // img:nth-child(7) {
+// //   width: 500px;
+// //   @include ThreePortraits();
+// // }
+
+// // //////////////////////////////
+// // /// Mercedes, Malahe
+// // img:nth-child(8) {
+// //   width: 940px;
+// //   height: auto;
+// // }
+// // img:nth-child(9) {
+// //   width: 500px;
+// //   height: auto;
+// // }
+
+// // //////////////////////////////
+// // /// expo,
+// // img:nth-child(10) {
+// //   width: 500px;
+// //   height: auto;
+// // }
+
+// // @mixin NTKT {
+// //   height: auto;
+// // }
+// // // noor, triumph, khalefa, tima
+// // img:nth-child(11) {
+// //   width: 500px;
+// //   @include NTKT();
+// // }
+// // img:nth-child(12) {
+// //   width: 350px;
+// //   @include NTKT();
+// // }
+// // img:nth-child(13) {
+// //   width: 500px;
+// //   @include NTKT();
+// // }
+// // img:nth-child(14) {
+// //   width: 500px;
+// //   @include NTKT();
+// // }
+// // //////////////////////////////
+// // /// long expo
+// // img:nth-child(15) {
+// //   width: 1205px;
+// //   height: 625px;
+// //   float: left;
+// // }
+
+// // //////////////////////////////
+// // /// dana, guitars
+// // img:nth-child(16) {
+// //   width: 415px;
+// //   height: auto;
+// // }
+// //}

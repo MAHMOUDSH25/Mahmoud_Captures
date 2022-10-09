@@ -1,0 +1,49 @@
+.container {
+  img {
+    border-radius: 10px;
+    margin: 10px;
+  }
+  
+  .img1 {
+    width: 1100px;
+    height: auto;
+  }
+  .img2 {
+    width: 400px;
+    height: auto;
+  }
+  .img3 {
+    width: 400px;
+    height: auto;
+  }
+  .img4 {
+    width: 400px;
+    height: 500px;
+    object-fit: cover;
+  }
+  .img5 {
+    width: 500px;
+    height: auto;
+    margin-left: 100px;
+  }
+  .img6 {
+    width: 500px;
+    height: auto;
+    margin-right: 100px;
+  }
+  .img7 {
+    width: 350px;
+    height: auto;
+    margin-left: 110px;
+  }
+  .img8 {
+    width: 350px;
+    height: auto;
+    // margin-right: 120px;
+  }
+  .img9 {
+    width: 350px;
+    height: auto;
+    margin-right: 110px;
+  }
+}
